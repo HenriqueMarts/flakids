@@ -1,0 +1,41 @@
+.text-center {
+    text-align: center;
+    color:red;
+}
+
+.text-arial {
+    font-family: Arial;
+}
+
+#titulo{
+    text-decoration: underline;
+}
+
+.menu li{
+     display: inline;
+     padding: 10px;
+    
+}
+
+.menu a{
+text-decoration: none;
+color: aliceblue;
+
+}
+.menu a:hover{
+     color: rgb(12, 12, 12);
+}
+
+header{
+    color: rgba(23, 22, 22, 0.42);
+    background-color: brown;
+    height: 50px;
+    display: flex;
+}
+
+.ft{
+float: left;
+height: 30px;
+width: auto;
+
+}
